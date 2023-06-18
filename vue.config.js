@@ -4,7 +4,7 @@ const resolve = dir => path.join(__dirname, dir);
 
 module.exports = {
     devServer: {
-        proxy: 'https://luoyangapi.top/'
+        proxy: 'https://www.luoyangapi.top/'
     },
 
     chainWebpack: config => {
